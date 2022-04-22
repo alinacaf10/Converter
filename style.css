@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+margin: 0;
+padding: 0;
+font-family: 'Roboto', sans-serif;
+}
+img{
+    width: 89px;
+    height: 23px;
+    margin:15px 64px 12px 100px
+}
+header{
+    height: 50px;
+width: 1152px;
+border-radius: 0px;
+background-color: #F5F5F6
+
+}
+header p{
+margin:17px 14px;
+font-size: 11px;
+font-weight: 500;
+line-height: 13px;
+letter-spacing: 0.06em;
+text-align: left;
+color:#959BA4
+}
+.bank{
+    margin-right: 13px;
+font-size: 11px;
+font-weight: 500;
+line-height: 13px;
+letter-spacing: 0.06em;
+text-align: left;
+color: black;
+}
+.bizn{
+    margin-right: 21px;
+}
+.inve{
+    margin-right: 11px;
+}
+.stra{
+    margin-right: 16px;
+}
+.moba{
+    margin-right: 7px;
+
+}
+.pute{
+    margin-right: 10px;
+}
+.razv{
+    margin-right: 109px;
+}
+.login{
+    margin: 9px 8px;
+    height: 33px;
+width: 58px;
+border-radius: nullpx;
+
+}
+header{
+    display: flex;
+}
